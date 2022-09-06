@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**DivineAde/DivineAde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**DivineAde/DivineAde** is a ✨ _special_ ✨ re
+
+
 
 - 🔭 I’m currently working on a password generator using JavaScript...
 - 🌱 I’m currently learning Js and tailwind Css...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: divineadeyeye@yahoo.com and divineadeyeye121@gmail.com...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
