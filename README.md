@@ -13,5 +13,5 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: divineadeyeye@yahoo.com and divineadeyeye121@gmail.com...
 - 😄 
-- ⚡ Fun fact: gamer 🎮
+- ⚡ Fun fact: TYPEWRITER is the longest word that can be made using the letters only on one row of the keyboard.
 
