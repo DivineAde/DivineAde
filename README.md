@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on a password generator using JavaScript
+- 🔭 I’m currently working on a Chrome extension using JavaScript
 
 - 🌱 I’m currently learning Js and Tailwind Css
 - 👯 I’m looking to collaborate on web development project
