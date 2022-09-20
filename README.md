@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on a Chrome extension using JavaScript
+- 🔭 I’m currently working on a Chrome extension using HTML CSS and JavaScript
 
 - 🌱 I’m currently learning Js and Tailwind Css
 - 👯 I’m looking to collaborate on web development project
