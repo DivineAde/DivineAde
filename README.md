@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Js and Tailwind Css
 - 👯 I’m looking to collaborate on web development project
-- 🤔 I’m looking for help with React 
+- 🤔 I’m looking for help with Tailwind 
 - 💬 Ask me about web development
 - 📫 How to reach me: divineadeyeye@yahoo.com and divineadeyeye121@gmail.com...
 - 😄 Be happy Always
