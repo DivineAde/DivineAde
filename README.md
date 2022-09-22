@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on a calculator 
+- 🔭 I’m currently working on a calculator app
 
 - 🌱 I’m currently learning Js and Tailwind Css
 - 👯 I’m looking to collaborate on web development project
