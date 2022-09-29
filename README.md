@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on a calculator app
+- 🔭 I’m currently working on/with Tailwind css
 
-- 🌱 I’m currently learning Js and Tailwind Css
+- 🌱 I’m currently learning React and Tailwind Css
 - 👯 I’m looking to collaborate on web development project
 - 🤔 I’m looking for help with Tailwind 
 - 💬 Ask me about Web development
