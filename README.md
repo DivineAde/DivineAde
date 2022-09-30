@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **my Portfolio**
 
 - 🌱 I’m currently learning **React and Tailwind**
 
