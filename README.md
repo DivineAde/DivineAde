@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **deploying tailwind on**
 
 - 💬 Ask me about **HTML CSS and JavaScript**
 
