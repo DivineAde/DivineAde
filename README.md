@@ -14,6 +14,7 @@
 - 📫 How to reach me **divineadeyeye121@gmail.com or divineadeyeye@yahoo.com**
 
 - ⚡ Fun fact **Kangaroos can't walk backward**
+[![@divineade20's Holopin board](https://holopin.me/divineade20)](https://holopin.io/@divineade20)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
