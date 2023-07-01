@@ -2,19 +2,19 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on **Full Stack web appllication**
 
-- 🌱 I’m currently learning **Git**
+- 🌱 I’m currently learning **Mongodb**
 
-- 👯 I’m looking to collaborate on **Frontend**
+- 👯 I’m looking to collaborate on **Open source frontend projects**
 
-- 🤝 I’m looking for help with **deploying tailwind on vercel**
+- 🤝 I’m looking for help with **Typescript**
 
-- 💬 Ask me about **HTML CSS and JavaScript**
+- 💬 Ask me about **HTML CSS and JavaScript, React, Tailwind, Mongodb**
 
 - 📫 How to reach me **divineadeyeye121@gmail.com or divineadeyeye@yahoo.com**
 
-- ⚡ Fun fact **Kangaroos can't walk backward**
+- ⚡ Fun fact **The Great Wall of China is not visible from space with the naked eye. This is a popular myth, but in reality, the wall is too narrow and blends in with the surrounding landscape.**
 
 
 <h3 align="left">Connect with me:</h3>
