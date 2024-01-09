@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Full Stack web appllication**
 
-- 🌱 I’m currently learning **Mongodb**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Open source frontend projects**
 
-- 🤝 I’m looking for help with **Typescript**
+- 🤝 I’m looking for help with **Redux**
 
-- 💬 Ask me about **HTML CSS and JavaScript, React, Tailwind, Mongodb**
+- 💬 Ask me about **HTML CSS, JavaScript, React, Tailwind, and Mongodb**
 
 - 📫 How to reach me **divineadeyeye121@gmail.com or divineadeyeye@yahoo.com**
 
