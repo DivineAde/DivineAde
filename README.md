@@ -1,33 +1,198 @@
-<h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-
-- 🔭 I’m currently working on **Full Stack web appllication**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **Open source frontend projects**
-
-- 🤝 I’m looking for help with **Redux**
-
-- 💬 Ask me about **HTML CSS, JavaScript, React, Tailwind, and Mongodb**
-
-- 📫 How to reach me **divineadeyeye121@gmail.com or divineadeyeye@yahoo.com**
-
-- ⚡ Fun fact **The Great Wall of China is not visible from space with the naked eye. This is a popular myth, but in reality, the wall is too narrow and blends in with the surrounding landscape.**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adeyeye_divine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeyeye_divine" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divine-adeyeye-96966b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divine-adeyeye-96966b224" height="30" width="40" /></a>
+<!-- Banner (optional) -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x400?text=Divine+Adeyeye+-+Frontend+Developer" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divineade&show_icons=true&locale=en&layout=compact" alt="divineade" /></p>
+<p align="center">
+  <a href="https://x.com/adeyeye_divine">
+    <img src="https://img.shields.io/badge/-@Adeyeye_Divine-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/divine-adeyeye-96966b224">
+    <img src="https://img.shields.io/badge/-Divine%20Adeyeye-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divineade&show_icons=true&locale=en" alt="divineade" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divineade&" alt="divineade" /></p>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=22&center=true&vCenter=true&multiline=true&lines=Frontend+Developer;React+%7C+Angular+Specialist;Open+Source+Contributor;Lifelong+Learner" alt="Typing animation" />
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm a passionate Frontend Developer from Nigeria 🇳🇬, specializing in building fast, responsive, and user-friendly web applications.  
+Currently expanding my skills in React Native and Full Stack Web Development.
+
+- 🔭 I’m currently working on a **Full Stack Web Application**
+- 🌱 Learning **React Native** and deepening my understanding of backend APIs
+- 👯 Open to **collaborating** on exciting frontend projects
+- 🤝 Seeking mentorship and collaboration around **Redux** and **State Management**
+- 💬 Ask me about **JavaScript (ES6+), React.js, Angular, Tailwind CSS, and MongoDB**
+- 📫 Reach me: **divineadeyeye121@gmail.com** | **divineadeyeye@yahoo.com**
+- ⚡ Fun Fact: *The Great Wall of China is not visible from space — it's a myth!*
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Backend and Tools
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divineade&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineade&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divineade&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:divineadeyeye121@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/adeyeye_divine" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/divine-adeyeye-96966b224" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+<!-- Banner (optional) -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x400?text=Divine+Adeyeye+-+Frontend+Developer" alt="Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
+
+<p align="center">
+  <a href="https://twitter.com/adeyeye_divine">
+    <img src="https://img.shields.io/badge/-@Adeyeye_Divine-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/divine-adeyeye-96966b224">
+    <img src="https://img.shields.io/badge/-Divine%20Adeyeye-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=22&center=true&vCenter=true&multiline=true&lines=Frontend+Developer;React+%7C+Angular+Specialist;Open+Source+Contributor;Lifelong+Learner" alt="Typing animation" />
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm a passionate Frontend Developer from Nigeria 🇳🇬, specializing in building fast, responsive, and user-friendly web applications.  
+Currently expanding my skills in React Native and Full Stack Web Development.
+
+- 🔭 I’m currently working on a **Full Stack Web Application**
+- 🌱 Learning **React Native** and deepening my understanding of backend APIs
+- 👯 Open to **collaborating** on exciting frontend projects
+- 🤝 Seeking mentorship and collaboration around **Redux** and **State Management**
+- 💬 Ask me about **JavaScript (ES6+), React.js, Angular, Tailwind CSS, and MongoDB**
+- 📫 Reach me: **divineadeyeye121@gmail.com** | **divineadeyeye@yahoo.com**
+- ⚡ Fun Fact: *The Great Wall of China is not visible from space — it's a myth!*
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Backend and Tools
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divineade&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineade&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divineade&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:divineadeyeye121@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://x.com/adeyeye_divine" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/divine-adeyeye-96966b224" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
