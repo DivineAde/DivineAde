@@ -1,6 +1,6 @@
 <!-- Banner (optional) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400?text=Divine+Adeyeye+-+Frontend+Developer" alt="Banner" />
+  <img src="https://github.com/DivineAde/first-tailwind-project/blob/main/github%20banner.png" alt="Banner" style="height: 300px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
