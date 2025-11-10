@@ -1,7 +1,7 @@
 <!-- Banner (optional) -->
 <p align="center">
   <img src="https://github.com/DivineAde/first-tailwind-project/blob/main/github%20banner.png" alt="Banner" style="height: 300px;" />
-</p>
+</p> 
 
 <h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
 
