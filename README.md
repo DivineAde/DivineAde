@@ -3,7 +3,8 @@
   <img src="https://github.com/DivineAde/first-tailwind-project/blob/main/github%20banner.png" alt="Banner" style="height: 300px;" />
 </p> 
 
-<h1 align="center">Hi 👋, I'm Divine Adeyeye </h1>
+<h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
+
 <p align="center">
   <a href="https://x.com/adeyeye_divine">
     <img src="https://img.shields.io/badge/-@Adeyeye_Divine-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
