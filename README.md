@@ -17,6 +17,7 @@
 
 ---
 
+
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=22&center=true&vCenter=true&multiline=true&lines=Frontend+Developer;React+%7C+Angular+Specialist;Open+Source+Contributor;Lifelong+Learner" alt="Typing animation" />
