@@ -68,7 +68,7 @@ Currently expanding my skills in React Native and Full Stack Web Development.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divineade&show_icons=true&theme=radical" alt="GitHub Stats" />
