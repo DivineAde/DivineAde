@@ -3,7 +3,6 @@
   <img src="https://github.com/DivineAde/first-tailwind-project/blob/main/github%20banner.png" alt="Banner" style="height: 300px;" />
 </p> 
 
-
 <h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
 
 <p align="center">
