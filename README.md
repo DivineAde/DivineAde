@@ -1,200 +1,155 @@
-<!-- Banner (optional) -->
-<p align="center">
-  <img src="https://github.com/DivineAde/first-tailwind-project/blob/main/github%20banner.png" alt="Banner" style="height: 300px;" />
-</p> 
+<div align="center">
 
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Divine%20Adeyeye&fontSize=50&fontAlignY=35&animation=twinkling&desc=Frontend%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
-
-<p align="center">
+<!-- Social Badges -->
+<p>
   <a href="https://x.com/adeyeye_divine">
-    <img src="https://img.shields.io/badge/-@Adeyeye_Divine-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/divine-adeyeye-96966b224">
-    <img src="https://img.shields.io/badge/-Divine%20Adeyeye-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=22&center=true&vCenter=true&multiline=true&lines=Frontend+Developer;React+%7C+Angular+Specialist;Open+Source+Contributor;Lifelong+Learner" alt="Typing animation" />
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-I'm a passionate Frontend Developer from Nigeria 🇳🇬, specializing in building fast, responsive, and user-friendly web applications.  
-Currently expanding my skills in React Native and Full Stack Web Development.
-
-- 🔭 I’m currently working on a **Full Stack Web Application**
-- 🌱 Learning **React Native** and deepening my understanding of backend APIs
-- 👯 Open to **collaborating** on exciting frontend projects
-- 🤝 Seeking mentorship and collaboration around **Redux** and **State Management**
-- 💬 Ask me about **JavaScript (ES6+), React.js, Angular, Tailwind CSS, and MongoDB**
-- 📫 Reach me: **divineadeyeye121@gmail.com** | **divineadeyeye@yahoo.com**
-- ⚡ Fun Fact: *The Great Wall of China is not visible from space — it's a myth!*
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### Backend and Tools
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-</p>
-
----
-
-## 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divineade&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineade&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divineade&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
   <a href="mailto:divineadeyeye121@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/adeyeye_divine" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/divine-adeyeye-96966b224" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/DivineAde">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-<!-- Banner (optional) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x400?text=Divine+Adeyeye+-+Frontend+Developer" alt="Banner" />
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Frontend+Engineer+%7C+React+%26+Angular+Expert;Full+Stack+Developer+%7C+Node.js+%26+NestJS;Building+Scalable%2C+Beautiful+Web+Experiences;Open+Source+Contributor+%F0%9F%87%B3%F0%9F%87%AC+From+Nigeria" />
 
-<h1 align="center">Hi 👋, I'm Divine Adeyeye</h1>
-
-<p align="center">
-  <a href="https://twitter.com/adeyeye_divine">
-    <img src="https://img.shields.io/badge/-@Adeyeye_Divine-1ca0f1?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/divine-adeyeye-96966b224">
-    <img src="https://img.shields.io/badge/-Divine%20Adeyeye-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&size=22&center=true&vCenter=true&multiline=true&lines=Frontend+Developer;React+%7C+Angular+Specialist;Open+Source+Contributor;Lifelong+Learner" alt="Typing animation" />
-</p>
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** based in Nigeria 🇳🇬 with a strong foundation in frontend engineering and a growing backend skill set. I build **fast, accessible, and production-ready** web applications — from pixel-perfect UIs to scalable REST APIs.
+
+I care deeply about **developer experience**, **clean architecture**, and **shipping products that actually work**.
+
+```ts
+const divine = {
+  role:        "Full Stack Developer (Frontend-focused)",
+  location:    "Nigeria 🇳🇬",
+  current:     "Building a Full Stack Web Application",
+  learning:    ["React Native", "NestJS", "Docker", "PostgreSQL"],
+  openTo:      ["Collaborations", "Freelance", "Full-time Roles"],
+  ask_me:      ["React", "Angular", "Node.js", "State Management", "REST APIs"],
+  contact:     "divineadeyeye121@gmail.com",
+  funFact:     "The Great Wall of China is NOT visible from space 🧱🚀",
+};
+```
 
 ---
 
-## 🙋‍♂️ About Me
+## 🛠️ Tech Stack
 
-I'm a passionate Frontend Developer from Nigeria 🇳🇬, specializing in building fast, responsive, and user-friendly web applications.  
-Currently expanding my skills in React Native and Full Stack Web Development.
-
-- 🔭 I’m currently working on a **Full Stack Web Application**
-- 🌱 Learning **React Native** and deepening my understanding of backend APIs
-- 👯 Open to **collaborating** on exciting frontend projects
-- 🤝 Seeking mentorship and collaboration around **Redux** and **State Management**
-- 💬 Ask me about **JavaScript (ES6+), React.js, Angular, Tailwind CSS, and MongoDB**
-- 📫 Reach me: **divineadeyeye121@gmail.com** | **divineadeyeye@yahoo.com**
-- ⚡ Fun Fact: *The Great Wall of China is not visible from space — it's a myth!*
-
----
-
-## 🛠 Tech Stack
-
-### Languages
+### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### Frontend
+### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### Backend and Tools
+### 🗄️ Databases & DevOps
 <p>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+### 🧰 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I Bring to the Table
+
+| Area | Skills |
+|---|---|
+| 🎨 **UI Engineering** | Pixel-perfect, accessible, responsive interfaces with React & Angular |
+| 🔁 **State Management** | Redux, Context API, NgRx — managing complex app state at scale |
+| 🔌 **API Integration** | RESTful APIs, async data flows, error handling and loading states |
+| 🏗️ **Backend Development** | Building APIs with Node.js, Express, and NestJS |
+| 🗃️ **Database Design** | Schema design in MongoDB & PostgreSQL, ORMs (Mongoose, TypeORM) |
+| 🐳 **Containerization** | Dockerizing apps for consistent dev & production environments |
+| 📱 **Mobile** | Cross-platform mobile apps with React Native |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divineade&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineade&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=divineade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divineade&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divineade&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divineade&theme=tokyonight&hide_border=true" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divineade&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=divineade&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect & Build Together
 
-<p align="center">
-  <a href="mailto:divineadeyeye121@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://x.com/adeyeye_divine" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/divine-adeyeye-96966b224" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+I'm always open to interesting conversations, collaborations, and new opportunities. Whether you're a recruiter, a fellow developer, or someone with a great idea — let's talk!
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divineadeyeye121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divine-adeyeye-96966b224)
+[![Twitter](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adeyeye_divine)
+
+</div>
 
 ---
+
+<div align="center">
+
+### 🐍 My Contributions, Eating Themselves
+
+![Snake animation](https://github.com/DivineAde/DivineAde/blob/output/github-contribution-grid-snake-dark.svg)
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+
+</div>
