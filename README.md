@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Divine%20Adeyeye&fontSize=50&fontAlignY=35&animation=twinkling&desc=Frontend%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Divine%20Adeyeye&fontSize=50&fontAlignY=35&animation=twinkling&desc=Software%20Engineer&descAlignY=55&descSize=20" width="100%" />
 
 <!-- Social Badges -->
 <p>
@@ -20,7 +20,7 @@
 </p>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Frontend+Engineer+%7C+React+%26+Angular+Expert;Full+Stack+Developer+%7C+Node.js+%26+NestJS;Building+Scalable%2C+Beautiful+Web+Experiences;Open+Source+Contributor+%F0%9F%87%B3%F0%9F%87%AC+From+Nigeria" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Frontend+Engineer+%7C+React+%26+NextJs+Expert;Full+Stack+Developer+%7C+Node.js+%26+NestJS;Building+Scalable%2C+Beautiful+Web+Experiences;Open+Source+Contributor+%F0%9F%87%B3%F0%9F%87%AC+From+Nigeria" />
 
 </div>
 
@@ -39,9 +39,9 @@ const divine = {
   current:     "Building a Full Stack Web Application",
   learning:    ["React Native", "NestJS", "Docker", "PostgreSQL"],
   openTo:      ["Collaborations", "Freelance", "Full-time Roles"],
-  ask_me:      ["React", "Angular", "Node.js", "State Management", "REST APIs"],
+  ask_me:      ["React", "Next Js", "Node.js", "State Management", "REST APIs"],
   contact:     "divineadeyeye121@gmail.com",
-  funFact:     "The Great Wall of China is NOT visible from space 🧱🚀",
+  funFact:     "A day on Venus is longer than a year on it. 🧱🚀",
 };
 ```
 
