@@ -37,7 +37,7 @@ const divine = {
   role:        "Full Stack Developer (Frontend-focused)",
   location:    "Nigeria 🇳🇬",
   current:     "Building a Full Stack Web Application",
-  learning:    ["React Native", "NestJS", "Docker", "PostgreSQL"],
+  learning:    ["NestJS", "Docker", "PostgreSQL", "React Native",],
   openTo:      ["Collaborations", "Freelance", "Full-time Roles"],
   ask_me:      ["React", "Next Js", "Node.js", "State Management", "REST APIs"],
   contact:     "divineadeyeye121@gmail.com",
