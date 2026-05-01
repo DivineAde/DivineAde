@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=text=Divine%20Adeyeye&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0f2027,50:203a43,100:2c5364&text=Divine%20Adeyeye&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer&descAlignY=55&descSize=20" width="100%" />
 
 <!-- Social Badges -->
 <p>
