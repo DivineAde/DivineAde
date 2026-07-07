@@ -39,7 +39,7 @@ const divine = {
   current:     "Building a Full Stack Web Application",
   learning:    ["NestJS", "Docker", "PostgreSQL", "React Native",],
   openTo:      ["Collaborations", "Freelance", "Full-time Roles"],
-  ask_me:      ["React", "Next Js", "Node.js", "State Management", "REST APIs"],
+  ask_me:      ["Typescript", "Next Js", "Node.js", "State Management", "REST APIs"],
   contact:     "divineadeyeye121@gmail.com",
   funFact:     "A day on Venus is longer than a year on it. 🧱🚀",
 };
